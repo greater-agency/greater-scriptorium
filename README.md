@@ -1,8 +1,8 @@
-# Sciptorium
+# Scriptorium
 
-We call this repository the [Sciptorium](https://g.co/kgs/Va839H). It contains documents and notes for the organization.
+We call this repository the [Scriptorium](https://g.co/kgs/Va839H). It contains documents and notes for the organization.
 
-We began using this repository in April 2023. We are using Notion for documentation and knowledge sharing. However, this repository has advantages because the content is:
+We began using this repository in April 2023. The content is:
 
 - saved in Markdown format for portability
 - tracked using Git version control
