@@ -1,0 +1,31 @@
+### Obsidian
+
+# to exclude all Obsidian workspace settings (including plugins and hotkey configurations)
+# .obsidian/*
+
+# exclude workspace cache
+.obsidian/workspace.json
+
+# exclude appearance settings
+.obsidian/appearance.json
+
+# Exclude plugins
+# .obsidian/plugins/*
+
+# Exclude file containing an API key
+.obsidian/plugins/obsidian-textgenerator-plugin/data.json
+
+# This file is used to keep track of last auto backup/pull
+.obsidian-git-data
+
+# Exclude Untitled Notes
+Untitled*
+
+# Exclude "bad" names
+null*
+
+### macOS
+
+# Add below lines to exclude OS settings and caches
+.trash/
+.DS_Store

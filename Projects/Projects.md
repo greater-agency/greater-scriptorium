@@ -1,0 +1,1 @@
+A top level category (folder) in our notes repository. Containing notes for current projects. If it’s in-progress and will at some point in time be "finished" it belongs here.

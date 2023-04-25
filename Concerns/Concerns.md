@@ -1,0 +1,1 @@
+Our folder for any ongoing, continuing tasks or processes. These are things we do regularly. Unlike projects, we'll probably always do these things.
