@@ -4,7 +4,7 @@ This repository contains Markdown files which can be used with any Markdown edit
 
 Here are instructions for cloning this repository and installing Obsidian.
 
-You'll need a GitHub account and access to the private [greater-agency](https://github.com/greater-agency) repositories. 
+You'll need a GitHub account a [greater-agency](https://github.com/greater-agency) repositories. 
 
 From your Terminal in any convenient folder you use for current projects:
 
