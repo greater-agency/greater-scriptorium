@@ -4,9 +4,11 @@ This repository contains Markdown files which can be used with any Markdown edit
 
 Here are instructions for cloning this repository and installing Obsidian.
 
-You'll need a GitHub account a [greater-agency](https://github.com/greater-agency) repositories. 
+You'll need a GitHub account. Search for the public [greater-agency/greater-scriptorium](https://github.com/greater-agency/greater-scriptorium) repository. 
 
-From your Terminal in any convenient folder you use for current projects:
+You'll need to have [Git](https://en.wikipedia.org/wiki/Git) installed on your computer. To install Git, You'll need to install MacOS[ Xcode Command Line Tools](https://mac.install.guide/commandlinetools/). You can [install Homebrew](https://mac.install.guide/commandlinetools/3.html) to download and install Xcode Command Line Tools. Visit [mac.install.guide](https://mac.install.guide/commandlinetools/index.html) for instructions.
+
+After you have Git installed on your computer, from your Terminal in any convenient folder you use for current projects:
 
 ```
 git clone https://github.com/greater-agency/greater-scriptorium.git
